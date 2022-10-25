@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/rodrigo-da-silva-batista/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
   
-  ![snake animation]("https://github.com/RodrigoBatista27/")
+ ![Snake animation](https://github.com/RodrigoBatista27/RodrigoBatista27/blob/main/.github/workflows/snake.yml)
