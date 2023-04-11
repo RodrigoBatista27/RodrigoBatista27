@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rodrigo 🐱‍👤
 
 
-🌱 Atualmente estudando Flutter
+🌱 Atualmente estudando Kotlin
 
 ##
 
